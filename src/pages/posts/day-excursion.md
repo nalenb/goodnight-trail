@@ -4,7 +4,7 @@ title: "Mr. Knightley Day Excursion"
 pubDate: "February 22, 2021"
 description: "excerpt"
 image:
-  url: "images/posts/IMG_1254.jpeg"
+  url: "/images/posts/IMG_1254.jpeg"
   alt: "alt image tag"
 tags: ["van", "travel"]
 ---
@@ -13,10 +13,10 @@ Mr. Knightly overlooking the ice-covered reservoir.
 
 After eyeballing different floor plans and adding more insulation, we took Lacey (my husky-mix) and Okra (my daughter's dog that we are sitting for) on a day excursion to Curt Gowdy State Park.
 
-![Van](images/posts/IMG_1246.jpeg)
+![Van](/images/posts/IMG_1246.jpeg)
 Inquisitive attention drawn to the ice fishing across the frozen water.
 
-![Van](images/posts/IMG_1260-1.jpeg)
+![Van](/images/posts/IMG_1260-1.jpeg)
 Lacey starts to fall asleep after exploring and the rest soon follow.
 
 Why did we name our van? Much to the dismay of Bill, I named our van because our daughters have this tradition to name their cars. Usually a funny name. Like our small suv, our Honda Element, Katie named Herbert. So silly, fun, unique? Whatever you like. Our new van just seemed to need to have a name since we waited so long to buy one. There we are.

@@ -4,7 +4,7 @@ title: "(Running Bored...Umm...Board)"
 pubDate: "March 6, 2021"
 description: "excerpt"
 image:
-  url: "images/posts/Running-Bored.jpg"
+  url: "/images/posts/Running-Bored.jpg"
   alt: "alt image tag"
 tags: ["van", "travel"]
 ---

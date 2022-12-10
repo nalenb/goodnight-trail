@@ -4,7 +4,7 @@ title: "Van Build in Sub-Zero Temps?!"
 pubDate: "February 12, 2021"
 description: "Excerpt"
 image:
-  url: "images/posts/IMG_1099.jpeg"
+  url: "/images/posts/IMG_1099.jpeg"
   alt: "alt image tag"
 tags: ["van", "travel"]
 ---
